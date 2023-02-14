@@ -249,7 +249,7 @@ border-radius: 3px;
 .trend-text > p {
    padding-top: 10px;
    font-size: 14px;
-   text-align: justify;
+   text-align: left;
 
    color:  hsl(236, 13%, 42%);
 }
