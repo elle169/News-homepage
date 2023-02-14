@@ -300,6 +300,10 @@ background-repeat: no-repeat;
 background-size: 100% 100%;
 } 
 
+.section2 {
+    margin: 30px 80px;
+}
+
 }
 
 @media (min-width: 980px) {
@@ -330,7 +334,7 @@ grid-row: 1/1;
 
 
   .section2 {
-  
+ 
    font-weight: bolder;
    width: 75%;
    margin: 0px 90px;
